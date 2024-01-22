@@ -1,0 +1,15 @@
+form{
+    background-color: deepskyblue;
+    margin-left: 400px;
+    margin-right: 200px;
+}
+.d1 {
+    display: block;
+}
+.btn{
+    display: flex;
+
+}
+button{
+    margin-left: 100px;
+}
